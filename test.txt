@@ -1,2 +1,4 @@
 initial text
 change 1
+------------
+developing of new feature
