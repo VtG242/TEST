@@ -3,4 +3,4 @@ change 1
 ------------
 developing of new feature
 VikiW is contributor
-VikiW independent branch
+This is VikiW independent branch
